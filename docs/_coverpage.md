@@ -10,3 +10,10 @@
 
 [GitHub](https://github.com/sa-kota/Learner/)
 [Get Started](/home)
+
+
+<!-- background image -->
+<!-- ![](_media/bg.png) -->
+
+<!-- background color -->
+![color](#0000ff)
