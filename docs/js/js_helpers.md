@@ -3,24 +3,24 @@
 ### Javascript Package Managers
 - [NPM], HomeBrew, Yarn, JSPM, volo, Bower, Jam, etc..
 
-### Javascript Development Webservers
+### Javascript Development Webservers {docsify-ignore}
 - http-server, live-server, budo, webpack, [express],
 - browsersync (free, dedicated IP shared on LAN, All devices remain in sync), etc..
 - Secure tunnel to share work : [localtunnel], ngrok, surge, now,
 
-### Javascript Automation
+### Javascript Automation {docsify-ignore}
 - Grunt, Gulp, [NPM Scripts], etc..
 
-### Javascript Bundling
+### Javascript Bundling {docsify-ignore}
 - Browserify, [webpack], Rollup (new, faster), JSPM, etc..
 
-### Javascript Testing & Continous Integration
+### Javascript Testing & Continous Integration {docsify-ignore}
 - Mocha, Jasmine, Tape, QUnit, Ava, Jest, Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI, etc..
 
-### Javascript IDEs
+### Javascript IDEs {docsify-ignore}
 - [Visual Code], Atom, WebStorm, Brackets, etc..
 
-### Javascript Linters
+### Javascript Linters {docsify-ignore}
 - JSlint, JShist, [ESLint], TSLint
 
 ## Testing
