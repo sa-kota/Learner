@@ -1,4 +1,3 @@
-- [About]
-
+- About
   - [Us](/about/)
   - [Docsify](/about/docsify.md)
