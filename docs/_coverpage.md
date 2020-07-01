@@ -16,4 +16,4 @@
 <!-- ![](_media/bg.png) -->
 
 <!-- background color -->
-![color](#0000ff)
+![color](#add8e6)
