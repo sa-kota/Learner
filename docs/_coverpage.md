@@ -4,11 +4,9 @@
 
 # DOCUMENTATION
 
-> A magical documentation site generator.
-
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+> A documentation site for everything I learn.
+- Important Points
+- Code Samples
 
 [GitHub](https://github.com/sa-kota/Learner/)
 [Get Started](/home)
