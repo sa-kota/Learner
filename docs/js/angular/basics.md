@@ -1,4 +1,4 @@
-## Basics
+## Basics {docsify-ignore-all}
 - https://angular.io
 - Application = Components + Services | Components = View + Class + MetaData
 - Modules => Root Angular Module (components) + Feature Angular Modules (components)
