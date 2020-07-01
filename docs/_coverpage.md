@@ -2,14 +2,12 @@
 
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# Learner <small>3.5</small>
 
-> A magical documentation site generator.
+> A Learner's documentation.
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- documenting every technology that I learn
 
 [GitHub](https://github.com/sa-kota/Learner/)
 
-[Get Started](#home)
+[Get Started](/home)
