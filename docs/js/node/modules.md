@@ -1,7 +1,6 @@
 
-
-## Modules
 - Modules is a wrapper on set of functions. Similar to libraries. In the above example "http" is a module and by writing ```require('http')``` we will have access to HTTP module and its functionalities (like create server).
+
 ### Custom Module
 - Add below code and create a file "firstmodule.js"
 ```
