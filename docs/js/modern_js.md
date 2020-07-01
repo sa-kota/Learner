@@ -56,7 +56,6 @@ o1.greet();
 o2.greet();
 o3.greet();
 ```
-
 ## Templates (the char => ` )
 ```
 // evaluating
@@ -67,8 +66,7 @@ const html = `
     ${Math.random()}
   </div>`;
 ```
-
-## Arrow functions
+## Arrow functions {docsify-ignore}
 ```
 // sample
 const square = (a) => {
