@@ -1,4 +1,4 @@
-- promise, async & await
+## promise, async & await
 ```
 const https = require('https');
 
@@ -25,7 +25,7 @@ fetch('https://www.javascript.com/')
 
 ```
 
-- Class
+## Class
 ```
 class Person {
   constructor(name) {
@@ -57,7 +57,7 @@ o2.greet();
 o3.greet();
 ```
 
-- Templates (the char => ` )
+## Templates (the char => ` )
 ```
 // evaluating
 const html = `<div>${Math.random()}</div>`;
@@ -97,7 +97,7 @@ testerObj.func2();  // shows exports/window info
 testerObj.func3();  // shows exports/window info
 ```
 
-- Dynamic property
+## Dynamic property
 ```
 const mystery = 'answer';
 const PI = Math.PI;
@@ -112,7 +112,7 @@ console.log(obj.PI);
 console.log(obj.mystery);
 console.log(obj.answer);
 ```
-- Dynamic Property from class : Destructuring
+### Dynamic Property from class : Destructuring
 ```
 const PI = Math.PI;
 const E = Math.E;
