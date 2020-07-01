@@ -1,2 +1,1 @@
-* [Home](/)
-* [UI](/ui/)
+[Author](/author/)
