@@ -68,7 +68,7 @@ const html = `
   </div>`;
 ```
 
-- Arrow functions
+## Arrow functions
 ```
 // sample
 const square = (a) => {
@@ -78,7 +78,7 @@ const square = (a) => {
 const square = (a) => a * a;
 const square = a => a * a;   // if only one parameter
 ```
-- Arrow Functions :: Output ?
+### Arrow Functions :: Output ?
 ```
 this.id = 'exports';
 
