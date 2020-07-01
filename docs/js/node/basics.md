@@ -1,4 +1,4 @@
-### Node Intro
+### Node Intro {docsify-ignore-all}
 - A javascript runtime environment that executes the Javascript code outside of a browser. It can run on various platforms (Windows, Linux, Unix, Mac OS X, etc..)
 - Acts as a Web Server, Server Language (Code), Tools (comes with NPM - Package Manager, Module Dependency Manager)
 - Asynchronous operations without Threading (Single thread handles by using callback functions)
